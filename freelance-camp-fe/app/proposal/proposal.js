@@ -14,5 +14,5 @@ var Proposal = (function () {
     return Proposal;
 }());
 exports.Proposal = Proposal;
-// 15, 'ABC company', 'http://portfolio.levismith.com', 'Ruby on Rails',150, 120, 15, 'test@test.com' 
+// 15, 'Abc Company', 'http://portfolio.jordanhudgens.com', 'Ruby on Rails', 150, 120, 15, 'jordan@devcamp.com' 
 //# sourceMappingURL=proposal.js.map
