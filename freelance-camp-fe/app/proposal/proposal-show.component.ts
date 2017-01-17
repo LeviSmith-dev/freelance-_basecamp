@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ActivatedRoute, Params} from '@angular/router';
+import { ActivatedRoute, Params } from '@angular/router';
 import { Proposal } from './proposal';
 
 @Component({
@@ -23,3 +23,4 @@ export class ProposalShowComponent implements OnInit {
 			)
 	}
 }
+
